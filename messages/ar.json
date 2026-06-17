@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "Tourist App",
+    "tagline": "تبليسي · جورجيا",
+    "network": "شبكة الضيافة الجورجية",
+    "footer": "ساكارتفيلو · تأسس 2024",
+    "signOut": "تسجيل الخروج",
+    "back": "رجوع →",
+    "signIn": "تسجيل الدخول",
+    "signingIn": "جارٍ الدخول…",
+    "register": "تسجيل",
+    "createAccount": "إنشاء حساب",
+    "creatingAccount": "جارٍ الإنشاء…",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "noAccount": "ليس لديك حساب؟",
+    "alreadyRegistered": "مسجل مسبقاً؟",
+    "signInLink": "تسجيل الدخول",
+    "registerHere": "سجل هنا",
+    "optional": "اختياري",
+    "loading": "جارٍ التحميل…"
+  },
+  "home": {
+    "subtitle": "شبكة الضيافة الجورجية",
+    "whoAre": "من",
+    "you": "أنت؟",
+    "selectPortal": "اختر بوابتك للمتابعة",
+    "enter": "دخول",
+    "user": {
+      "role": "ضيف",
+      "tagline": "احجز طاولتك",
+      "desc": "تصفح المطاعم الشريكة في تبليسي واحجز تجربة طعام مثالية."
+    },
+    "partner": {
+      "role": "شريك",
+      "tagline": "أدر مطعمك",
+      "desc": "سجل مطعمك، تتبع الحجوزات، وطوّر قاعدة عملائك."
+    },
+    "driver": {
+      "role": "سائق",
+      "tagline": "هويتك بـ QR",
+      "desc": "احصل على رمز التحقق الشخصي لتقديمه للركاب."
+    }
+  },
+  "userLogin": {
+    "portalLabel": "بوابة العميل",
+    "hero1": "احجز",
+    "hero2": "طاولتك",
+    "hero3": "الآن",
+    "heroDesc": "اكتشف أفضل المطاعم الشريكة في تبليسي واحجز تجربة طعام مميزة.",
+    "welcomeBack": "مرحباً بعودتك",
+    "registerLink": "سجل هنا"
+  },
+  "userRegister": {
+    "portalLabel": "بوابة العميل",
+    "hero1": "انضم",
+    "hero2": "إلينا",
+    "heroDesc": "أنشئ حسابك وابدأ استكشاف المشهد الطهوي في تبليسي.",
+    "referredBy": "مُحال من سائق",
+    "createAccountLabel": "إنشاء حساب",
+    "firstName": "الاسم الأول",
+    "surname": "اسم العائلة",
+    "signInLink": "تسجيل الدخول",
+    "validating": "جارٍ التحقق من الإحالة…",
+    "accessDenied": "رُفض الوصول",
+    "invalidTitle": "إحالة",
+    "invalidTitleEm": "غير صالحة",
+    "returnHome": "العودة للرئيسية",
+    "noReferralError": "يتطلب التسجيل رابط إحالة صالح. يرجى مسح رمز QR الخاص بالسائق.",
+    "invalidCodeError": "رمز الإحالة هذا غير صالح أو لم يعد نشطاً."
+  },
+  "nav": {
+    "restaurants": "المطاعم",
+    "myReservations": "حجوزاتي"
+  },
+  "restaurants": {
+    "available": "{count, plural, one {# مطعم متاح} other {# مطاعم متاحة}}",
+    "title1": "المطاعم",
+    "title2": "الشريكة",
+    "capacity": "السعة:",
+    "reserve": "احجز",
+    "noVenues": "لا توجد مطاعم بعد",
+    "noVenuesDesc": "ستظهر المطاعم الشريكة بعد التسجيل."
+  },
+  "reservations": {
+    "count": "{count, plural, one {# حجز} other {# حجوزات}}",
+    "title1": "حجوزاتي",
+    "title2": "",
+    "noReservations": "لا توجد حجوزات بعد",
+    "noReservationsDesc": "تصفح المطاعم الشريكة واحجز طاولتك الأولى.",
+    "viewRestaurants": "عرض المطاعم",
+    "guest": "ضيف",
+    "guests": "ضيوف",
+    "status": {
+      "pending": "قيد الانتظار",
+      "confirmed": "مؤكد",
+      "cancelled": "ملغى"
+    }
+  },
+  "reserve": {
+    "capacityLabel": "السعة:",
+    "capacityGuests": "ضيوف",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "lunch": "الغداء",
+    "dinner": "العشاء",
+    "partySize": "عدد الضيوف",
+    "notes": "ملاحظات",
+    "notesPlaceholder": "حساسية، طلبات خاصة، مناسبات…",
+    "submit": "تأكيد الحجز",
+    "submitting": "جارٍ الإرسال…",
+    "selectTimeError": "يرجى اختيار وقت.",
+    "notSignedInError": "يجب تسجيل الدخول لإجراء حجز.",
+    "successTitle": "تم التأكيد",
+    "successDesc": "تم إرسال حجزك.",
+    "returning": "جارٍ العودة إلى المطاعم…"
+  },
+  "facilityLogin": {
+    "portalLabel": "بوابة الشريك",
+    "hero1": "أدر",
+    "hero2": "مطعمك",
+    "hero3": "الآن",
+    "heroDesc": "تتبع الحجوزات، أدر ملف مطعمك، وعزز حضورك في تبليسي.",
+    "portalSubLabel": "بوابة الشريك",
+    "registerLink": "سجل مطعمك"
+  },
+  "facilityRegister": {
+    "portalLabel": "بوابة الشريك",
+    "hero1": "أضف",
+    "hero2": "مطعمك",
+    "heroDesc": "انضم إلى شبكة الشركاء لدينا واستقطب السياح في تبليسي.",
+    "createAccountLabel": "إنشاء حساب",
+    "yourAccount": "حسابك",
+    "yourRestaurant": "مطعمك",
+    "restaurantName": "اسم المطعم",
+    "cuisine": "المطبخ",
+    "description": "الوصف",
+    "capacity": "السعة",
+    "capacityUnit": "ضيوف",
+    "contactPerson": "شخص الاتصال",
+    "restaurantPlaceholder": "مثل تاماد",
+    "cuisinePlaceholder": "جورجي، أوروبي…",
+    "descPlaceholder": "وصف مختصر لمطعمك…",
+    "registering": "جارٍ التسجيل…",
+    "submitLabel": "تسجيل المطعم",
+    "signInLink": "تسجيل الدخول",
+    "accountError": "تم إنشاء الحساب لكن فشل إضافة المطعم:"
+  },
+  "facilityDashboard": {
+    "dashLabel": "لوحة الشريك",
+    "title": "الحجوزات",
+    "total": "الإجمالي",
+    "pending": "قيد الانتظار",
+    "confirmed": "مؤكد",
+    "cancelled": "ملغى",
+    "yourVenues": "مطاعمك",
+    "cap": "مقعد",
+    "noRestaurant": "لا يوجد مطعم بعد",
+    "noRestaurantDesc": "تواصل مع مدير المنصة لتسجيل مطعمك.",
+    "recentReservations": "الحجوزات الأخيرة",
+    "colRestaurant": "المطعم",
+    "colDate": "التاريخ",
+    "colTime": "الوقت",
+    "colGuests": "الضيوف",
+    "colStatus": "الحالة",
+    "noReservations": "لا توجد حجوزات بعد"
+  },
+  "driverLogin": {
+    "portalLabel": "بوابة السائق",
+    "hero1": "طريقك",
+    "hero2": "موثّق",
+    "hero3": "دائماً",
+    "heroDesc": "احصل على رمز QR الشخصي وابنِ الثقة مع كل راكب.",
+    "portalSubLabel": "بوابة السائق",
+    "registerLink": "سجل هنا"
+  },
+  "driverRegister": {
+    "portalLabel": "بوابة السائق",
+    "hero1": "احصل على",
+    "hero2": "رمز QR",
+    "heroDesc": "سجل كسائق معتمد واحصل على رمز QR الشخصي الخاص بك.",
+    "createAccountLabel": "إنشاء حساب",
+    "vehicleInfo": "بيانات المركبة",
+    "vehicleType": "نوع المركبة",
+    "plateNumber": "رقم اللوحة",
+    "vehiclePlaceholder": "سيدان، دفع رباعي، فان…",
+    "platePlaceholder": "ABC-1234",
+    "yourName": "اسمك"
+  },
+  "driverQr": {
+    "verificationLabel": "التحقق من السائق",
+    "titleOwn": "رمز QR",
+    "titleWith": "رمز QR لـ {name}",
+    "titleCode": "الخاص بك",
+    "loading": "جارٍ تحميل الرمز…",
+    "showToPassengers": "أظهر هذا الرمز للركاب",
+    "verificationId": "معرّف التحقق",
+    "notAuthenticated": "غير مسجل الدخول",
+    "driverRecordError": "تعذّر إنشاء سجل السائق. تواصل مع الدعم.",
+    "returnToLogin": "العودة لتسجيل الدخول"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "Tourist App",
+    "tagline": "თბილისი · საქართველო",
+    "network": "ქართული სტუმართმოყვარეობის ქსელი",
+    "footer": "საქართველო · დაარს. 2024",
+    "signOut": "გასვლა",
+    "back": "← უკან",
+    "signIn": "შესვლა",
+    "signingIn": "შედის…",
+    "register": "რეგისტრაცია",
+    "createAccount": "ანგარიშის შექმნა",
+    "creatingAccount": "იქმნება…",
+    "email": "ელ.ფოსტა",
+    "password": "პაროლი",
+    "fullName": "სრული სახელი",
+    "noAccount": "არ გაქვთ ანგარიში?",
+    "alreadyRegistered": "უკვე რეგისტრირებული?",
+    "signInLink": "შესვლა",
+    "registerHere": "დარეგისტრირდით",
+    "optional": "სურვილისამებრ",
+    "loading": "იტვირთება…"
+  },
+  "home": {
+    "subtitle": "ქართული სტუმართმოყვარეობის ქსელი",
+    "whoAre": "ვინ",
+    "you": "ხართ?",
+    "selectPortal": "აირჩიეთ პორტალი გასაგრძელებლად",
+    "enter": "შესვლა",
+    "user": {
+      "role": "მომხმარებელი",
+      "tagline": "დაჯავშნეთ მაგიდა",
+      "desc": "გაეცანით თბილისის პარტნიორ რესტორნებს და დაჯავშნეთ სადილი."
+    },
+    "partner": {
+      "role": "პარტნიორი",
+      "tagline": "მართეთ ობიექტი",
+      "desc": "დაარეგისტრირეთ რესტორანი, თვალყური ადევნეთ ჯავშნებს."
+    },
+    "driver": {
+      "role": "მძღოლი",
+      "tagline": "თქვენი QR კოდი",
+      "desc": "შეხვიდეთ პირად QR კოდზე და წარუდგინეთ მგზავრებს."
+    }
+  },
+  "userLogin": {
+    "portalLabel": "კლიენტის პორტალი",
+    "hero1": "დაჯავშნეთ",
+    "hero2": "თქვენი",
+    "hero3": "მაგიდა",
+    "heroDesc": "გაეცანით თბილისის საუკეთესო პარტნიორ რესტორნებს.",
+    "welcomeBack": "კეთილი დაბრუნება",
+    "registerLink": "დარეგისტრირდით"
+  },
+  "userRegister": {
+    "portalLabel": "კლიენტის პორტალი",
+    "hero1": "შემოგვიერთდით",
+    "hero2": "ჩვენ",
+    "heroDesc": "შექმენით ანგარიში და დაიწყეთ თბილისის კულინარიის გაცნობა.",
+    "referredBy": "მოიყვანა მძღოლმა",
+    "createAccountLabel": "ანგარიშის შექმნა",
+    "firstName": "სახელი",
+    "surname": "გვარი",
+    "signInLink": "შესვლა",
+    "validating": "კოდის შემოწმება…",
+    "accessDenied": "წვდომა აკრძალულია",
+    "invalidTitle": "არასწორი",
+    "invalidTitleEm": "კოდი",
+    "returnHome": "მთავარ გვერდზე",
+    "noReferralError": "რეგისტრაცია მოითხოვს QR კოდს. გთხოვთ დაასკანეროთ მძღოლის QR კოდი.",
+    "invalidCodeError": "ეს კოდი არასწორია ან აღარ არის აქტიური."
+  },
+  "nav": {
+    "restaurants": "რესტორნები",
+    "myReservations": "ჩემი ჯავშნები"
+  },
+  "restaurants": {
+    "available": "{count} ობიექტი ხელმისაწვდომია",
+    "title1": "პარტნიორი",
+    "title2": "რესტორნები",
+    "capacity": "ტევადობა:",
+    "reserve": "ჯავშანი",
+    "noVenues": "ობიექტები არ არის",
+    "noVenuesDesc": "პარტნიორი რესტორნები გამოჩნდება რეგისტრაციის შემდეგ."
+  },
+  "reservations": {
+    "count": "{count} ჯავშანი",
+    "title1": "ჩემი",
+    "title2": "ჯავშნები",
+    "noReservations": "ჯავშნები არ არის",
+    "noReservationsDesc": "გაეცანით პარტნიორ რესტორნებს და დაჯავშნეთ.",
+    "viewRestaurants": "რესტორნების ნახვა",
+    "guest": "სტუმარი",
+    "guests": "სტუმარი",
+    "status": {
+      "pending": "მოლოდინში",
+      "confirmed": "დადასტურებული",
+      "cancelled": "გაუქმებული"
+    }
+  },
+  "reserve": {
+    "capacityLabel": "ტევადობა:",
+    "capacityGuests": "სტუმარი",
+    "date": "თარიღი",
+    "time": "დრო",
+    "lunch": "სადილი",
+    "dinner": "ვახშამი",
+    "partySize": "სტუმართა რაოდენობა",
+    "notes": "შენიშვნები",
+    "notesPlaceholder": "ალერგია, სპეც. მოთხოვნები…",
+    "submit": "ჯავშნის დადასტურება",
+    "submitting": "იგზავნება…",
+    "selectTimeError": "გთხოვთ აირჩიოთ დრო.",
+    "notSignedInError": "ჯავშნისთვის საჭიროა შესვლა.",
+    "successTitle": "დადასტურდა",
+    "successDesc": "თქვენი ჯავშანი გაიგზავნა.",
+    "returning": "ბრუნდება რესტორნებზე…"
+  },
+  "facilityLogin": {
+    "portalLabel": "პარტნიორის პორტალი",
+    "hero1": "მართეთ",
+    "hero2": "თქვენი",
+    "hero3": "ობიექტი",
+    "heroDesc": "თვალყური ადევნეთ ჯავშნებს და გაზარდეთ კლიენტთა ბაზა.",
+    "portalSubLabel": "პარტნიორის პორტალი",
+    "registerLink": "ობიექტის რეგისტრაცია"
+  },
+  "facilityRegister": {
+    "portalLabel": "პარტნიორის პორტალი",
+    "hero1": "დაარეგისტრირეთ",
+    "hero2": "რესტორანი",
+    "heroDesc": "შემოიერთეთ ჩვენი ქსელი და მიიღეთ ტურისტები.",
+    "createAccountLabel": "ანგარიშის შექმნა",
+    "yourAccount": "თქვენი ანგარიში",
+    "yourRestaurant": "თქვენი რესტორანი",
+    "restaurantName": "რესტორნის სახელი",
+    "cuisine": "კულინარია",
+    "description": "აღწერა",
+    "capacity": "ტევადობა",
+    "capacityUnit": "სტუმარი",
+    "contactPerson": "საკონტაქტო პირი",
+    "restaurantPlaceholder": "მაგ. თამადა",
+    "cuisinePlaceholder": "ქართული, ევროპული…",
+    "descPlaceholder": "მოკლე აღწერა…",
+    "registering": "რეგისტრაცია…",
+    "submitLabel": "რესტორნის რეგისტრაცია",
+    "signInLink": "შესვლა",
+    "accountError": "ანგარიში შეიქმნა, რესტორნი ვერ შეიქმნა:"
+  },
+  "facilityDashboard": {
+    "dashLabel": "პარტნიორის პანელი",
+    "title": "ჯავშნები",
+    "total": "სულ",
+    "pending": "მოლოდინში",
+    "confirmed": "დადასტურებული",
+    "cancelled": "გაუქმებული",
+    "yourVenues": "თქვენი ობიექტები",
+    "cap": "ადგ.",
+    "noRestaurant": "რესტორანი არ არის",
+    "noRestaurantDesc": "დაუკავშირდით ადმინს ობიექტის დასარეგისტრირებლად.",
+    "recentReservations": "ბოლო ჯავშნები",
+    "colRestaurant": "რესტორანი",
+    "colDate": "თარიღი",
+    "colTime": "დრო",
+    "colGuests": "სტუმრები",
+    "colStatus": "სტატუსი",
+    "noReservations": "ჯავშნები არ არის"
+  },
+  "driverLogin": {
+    "portalLabel": "მძღოლის პორტალი",
+    "hero1": "თქვენი",
+    "hero2": "გზა,",
+    "hero3": "დადასტურებული",
+    "heroDesc": "შეხვიდეთ QR კოდზე და ჩამოაყალიბეთ ნდობა მგზავრებთან.",
+    "portalSubLabel": "მძღოლის პორტალი",
+    "registerLink": "დარეგისტრირდით"
+  },
+  "driverRegister": {
+    "portalLabel": "მძღოლის პორტალი",
+    "hero1": "მიიღეთ",
+    "hero2": "QR კოდი",
+    "heroDesc": "დარეგისტრირდით მძღოლად და მიიღეთ პირადი QR კოდი.",
+    "createAccountLabel": "ანგარიშის შექმნა",
+    "vehicleInfo": "ავტომობილის ინფო",
+    "vehicleType": "ავტომობილის ტიპი",
+    "plateNumber": "სანომრე ნიშანი",
+    "vehiclePlaceholder": "სედანი, SUV, ვენი…",
+    "platePlaceholder": "ABC-1234",
+    "yourName": "თქვენი სახელი"
+  },
+  "driverQr": {
+    "verificationLabel": "მძღოლის ვერიფიკაცია",
+    "titleOwn": "თქვენი",
+    "titleWith": "{name}-ს",
+    "titleCode": "QR კოდი",
+    "loading": "კოდი იტვირთება…",
+    "showToPassengers": "აჩვენეთ ეს კოდი მგზავრებს",
+    "verificationId": "ვერიფიკაციის ID",
+    "notAuthenticated": "არ ხართ ავტორიზებული",
+    "driverRecordError": "მძღოლის ჩანაწერის შექმნა ვერ მოხერხდა.",
+    "returnToLogin": "შესვლის გვერდი"
+  }
+}

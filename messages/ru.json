@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "Tourist App",
+    "tagline": "Тбилиси · Грузия",
+    "network": "Сеть грузинского гостеприимства",
+    "footer": "Сакартвело · Осн. 2024",
+    "signOut": "Выйти",
+    "back": "← Назад",
+    "signIn": "Войти",
+    "signingIn": "Входим…",
+    "register": "Регистрация",
+    "createAccount": "Создать аккаунт",
+    "creatingAccount": "Создаём…",
+    "email": "Эл. почта",
+    "password": "Пароль",
+    "fullName": "Полное имя",
+    "noAccount": "Нет аккаунта?",
+    "alreadyRegistered": "Уже зарегистрированы?",
+    "signInLink": "Войти",
+    "registerHere": "Зарегистрироваться",
+    "optional": "необязательно",
+    "loading": "Загрузка…"
+  },
+  "home": {
+    "subtitle": "Сеть грузинского гостеприимства",
+    "whoAre": "Кто",
+    "you": "вы?",
+    "selectPortal": "Выберите портал для продолжения",
+    "enter": "Войти",
+    "user": {
+      "role": "Гость",
+      "tagline": "Забронируйте столик",
+      "desc": "Просматривайте рестораны-партнёры по всему Тбилиси и бронируйте столик."
+    },
+    "partner": {
+      "role": "Партнёр",
+      "tagline": "Управляйте заведением",
+      "desc": "Зарегистрируйте ресторан, отслеживайте брони и развивайте клиентуру."
+    },
+    "driver": {
+      "role": "Водитель",
+      "tagline": "Ваш QR-идентификатор",
+      "desc": "Получите доступ к личному QR-коду для предъявления пассажирам."
+    }
+  },
+  "userLogin": {
+    "portalLabel": "Портал клиента",
+    "hero1": "Забронируйте",
+    "hero2": "свой",
+    "hero3": "столик",
+    "heroDesc": "Откройте для себя лучшие рестораны Тбилиси и забронируйте столик.",
+    "welcomeBack": "С возвращением",
+    "registerLink": "Зарегистрироваться"
+  },
+  "userRegister": {
+    "portalLabel": "Портал клиента",
+    "hero1": "Присоединяйтесь",
+    "hero2": "к нам",
+    "heroDesc": "Создайте аккаунт и начните исследовать кулинарную сцену Тбилиси.",
+    "referredBy": "Реферал от водителя",
+    "createAccountLabel": "Создать аккаунт",
+    "firstName": "Имя",
+    "surname": "Фамилия",
+    "signInLink": "Войти",
+    "validating": "Проверка реферала…",
+    "accessDenied": "Доступ запрещён",
+    "invalidTitle": "Недействительный",
+    "invalidTitleEm": "реферал",
+    "returnHome": "На главную",
+    "noReferralError": "Регистрация требует реферальной ссылки. Отсканируйте QR-код водителя.",
+    "invalidCodeError": "Этот реферальный код недействителен или больше не активен."
+  },
+  "nav": {
+    "restaurants": "Рестораны",
+    "myReservations": "Мои брони"
+  },
+  "restaurants": {
+    "available": "{count, plural, one {# заведение доступно} few {# заведения доступно} other {# заведений доступно}}",
+    "title1": "Рестораны",
+    "title2": "партнёры",
+    "capacity": "Вместимость:",
+    "reserve": "Забронировать",
+    "noVenues": "Заведений пока нет",
+    "noVenuesDesc": "Рестораны-партнёры появятся после регистрации."
+  },
+  "reservations": {
+    "count": "{count, plural, one {# бронь} few {# брони} other {# броней}}",
+    "title1": "Мои",
+    "title2": "брони",
+    "noReservations": "Броней пока нет",
+    "noReservationsDesc": "Просматривайте рестораны-партнёры и бронируйте первый столик.",
+    "viewRestaurants": "Смотреть рестораны",
+    "guest": "гость",
+    "guests": "гостей",
+    "status": {
+      "pending": "Ожидает",
+      "confirmed": "Подтверждено",
+      "cancelled": "Отменено"
+    }
+  },
+  "reserve": {
+    "capacityLabel": "Вместимость:",
+    "capacityGuests": "гостей",
+    "date": "Дата",
+    "time": "Время",
+    "lunch": "Обед",
+    "dinner": "Ужин",
+    "partySize": "Количество гостей",
+    "notes": "Примечания",
+    "notesPlaceholder": "Аллергии, особые пожелания, праздники…",
+    "submit": "Подтвердить бронь",
+    "submitting": "Отправляем…",
+    "selectTimeError": "Пожалуйста, выберите время.",
+    "notSignedInError": "Для бронирования необходимо войти в систему.",
+    "successTitle": "Подтверждено",
+    "successDesc": "Ваша бронь отправлена.",
+    "returning": "Возвращаемся к ресторанам…"
+  },
+  "facilityLogin": {
+    "portalLabel": "Портал партнёра",
+    "hero1": "Управляйте",
+    "hero2": "вашим",
+    "hero3": "заведением",
+    "heroDesc": "Отслеживайте брони, управляйте профилем и развивайте присутствие в Тбилиси.",
+    "portalSubLabel": "Портал партнёра",
+    "registerLink": "Зарегистрировать заведение"
+  },
+  "facilityRegister": {
+    "portalLabel": "Портал партнёра",
+    "hero1": "Добавьте свой",
+    "hero2": "ресторан",
+    "heroDesc": "Присоединяйтесь к сети партнёров и привлекайте туристов в Тбилиси.",
+    "createAccountLabel": "Создать аккаунт",
+    "yourAccount": "Ваш аккаунт",
+    "yourRestaurant": "Ваш ресторан",
+    "restaurantName": "Название ресторана",
+    "cuisine": "Кухня",
+    "description": "Описание",
+    "capacity": "Вместимость",
+    "capacityUnit": "гостей",
+    "contactPerson": "Контактное лицо",
+    "restaurantPlaceholder": "напр. Тамада",
+    "cuisinePlaceholder": "Грузинская, европейская…",
+    "descPlaceholder": "Краткое описание заведения…",
+    "registering": "Регистрируем…",
+    "submitLabel": "Зарегистрировать ресторан",
+    "signInLink": "Войти",
+    "accountError": "Аккаунт создан, но ресторан не добавлен:"
+  },
+  "facilityDashboard": {
+    "dashLabel": "Панель партнёра",
+    "title": "Бронирования",
+    "total": "Всего",
+    "pending": "Ожидает",
+    "confirmed": "Подтверждено",
+    "cancelled": "Отменено",
+    "yourVenues": "Ваши заведения",
+    "cap": "мест",
+    "noRestaurant": "Ресторана пока нет",
+    "noRestaurantDesc": "Свяжитесь с администратором для регистрации заведения.",
+    "recentReservations": "Последние бронирования",
+    "colRestaurant": "Ресторан",
+    "colDate": "Дата",
+    "colTime": "Время",
+    "colGuests": "Гости",
+    "colStatus": "Статус",
+    "noReservations": "Бронирований пока нет"
+  },
+  "driverLogin": {
+    "portalLabel": "Портал водителя",
+    "hero1": "Ваш",
+    "hero2": "путь,",
+    "hero3": "подтверждён",
+    "heroDesc": "Получите личный QR-код и завоюйте доверие пассажиров.",
+    "portalSubLabel": "Портал водителя",
+    "registerLink": "Зарегистрироваться"
+  },
+  "driverRegister": {
+    "portalLabel": "Портал водителя",
+    "hero1": "Получите свой",
+    "hero2": "QR-код",
+    "heroDesc": "Зарегистрируйтесь как водитель и получите личный QR-код.",
+    "createAccountLabel": "Создать аккаунт",
+    "vehicleInfo": "Данные об авто",
+    "vehicleType": "Тип авто",
+    "plateNumber": "Номерной знак",
+    "vehiclePlaceholder": "Седан, внедорожник, минивэн…",
+    "platePlaceholder": "ABC-1234",
+    "yourName": "Ваше имя"
+  },
+  "driverQr": {
+    "verificationLabel": "Верификация водителя",
+    "titleOwn": "Ваш",
+    "titleWith": "QR-код {name}",
+    "titleCode": "QR-код",
+    "loading": "Загружаем код…",
+    "showToPassengers": "Покажите этот код пассажирам",
+    "verificationId": "ID верификации",
+    "notAuthenticated": "Не авторизованы",
+    "driverRecordError": "Не удалось создать запись водителя. Обратитесь в поддержку.",
+    "returnToLogin": "Вернуться ко входу"
+  }
+}

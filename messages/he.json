@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "Tourist App",
+    "tagline": "טביליסי · גאורגיה",
+    "network": "רשת האירוח הגאורגית",
+    "footer": "סקרטבלו · נוסד 2024",
+    "signOut": "התנתק",
+    "back": "חזור →",
+    "signIn": "כניסה",
+    "signingIn": "נכנסים…",
+    "register": "הרשמה",
+    "createAccount": "צור חשבון",
+    "creatingAccount": "יוצר חשבון…",
+    "email": "דוא\"ל",
+    "password": "סיסמה",
+    "fullName": "שם מלא",
+    "noAccount": "אין חשבון?",
+    "alreadyRegistered": "כבר רשום?",
+    "signInLink": "כניסה",
+    "registerHere": "הירשם כאן",
+    "optional": "אופציונלי",
+    "loading": "טוען…"
+  },
+  "home": {
+    "subtitle": "רשת האירוח הגאורגית",
+    "whoAre": "מי",
+    "you": "אתה?",
+    "selectPortal": "בחר את הפורטל שלך להמשך",
+    "enter": "כניסה",
+    "user": {
+      "role": "אורח",
+      "tagline": "הזמן שולחן",
+      "desc": "עיין במסעדות שותפות בטביליסי והזמן את חוויית האוכל המושלמת שלך."
+    },
+    "partner": {
+      "role": "שותף",
+      "tagline": "נהל את המסעדה",
+      "desc": "הרשם את המסעדה, עקוב אחר הזמנות וצמח את הלקוחות."
+    },
+    "driver": {
+      "role": "נהג",
+      "tagline": "זהות QR שלך",
+      "desc": "גש לקוד האימות האישי שלך להצגה בפני נוסעים."
+    }
+  },
+  "userLogin": {
+    "portalLabel": "פורטל לקוח",
+    "hero1": "הזמן",
+    "hero2": "את",
+    "hero3": "השולחן",
+    "heroDesc": "גלה את מסעדות השותפים הטובות ביותר בטביליסי והזמן שולחן.",
+    "welcomeBack": "ברוך שובך",
+    "registerLink": "הירשם כאן"
+  },
+  "userRegister": {
+    "portalLabel": "פורטל לקוח",
+    "hero1": "הצטרף",
+    "hero2": "אלינו",
+    "heroDesc": "צור חשבון והתחל לחקור את הסצנה הקולינרית של טביליסי.",
+    "referredBy": "הופנה על ידי נהג",
+    "createAccountLabel": "צור חשבון",
+    "firstName": "שם פרטי",
+    "surname": "שם משפחה",
+    "signInLink": "כניסה",
+    "validating": "מאמת הפניה…",
+    "accessDenied": "גישה נדחתה",
+    "invalidTitle": "הפניה",
+    "invalidTitleEm": "לא תקינה",
+    "returnHome": "חזור לדף הבית",
+    "noReferralError": "הרשמה דורשת קישור הפניה תקין. סרוק את קוד ה-QR של הנהג.",
+    "invalidCodeError": "קוד הפניה זה אינו תקין או כבר לא פעיל."
+  },
+  "nav": {
+    "restaurants": "מסעדות",
+    "myReservations": "ההזמנות שלי"
+  },
+  "restaurants": {
+    "available": "{count, plural, one {# מסעדה זמינה} other {# מסעדות זמינות}}",
+    "title1": "מסעדות",
+    "title2": "שותפות",
+    "capacity": "קיבולת:",
+    "reserve": "הזמן",
+    "noVenues": "אין מסעדות עדיין",
+    "noVenuesDesc": "מסעדות שותפות יופיעו לאחר הרשמה."
+  },
+  "reservations": {
+    "count": "{count, plural, one {# הזמנה} other {# הזמנות}}",
+    "title1": "ההזמנות",
+    "title2": "שלי",
+    "noReservations": "אין הזמנות עדיין",
+    "noReservationsDesc": "עיין במסעדות שותפות והזמן את השולחן הראשון שלך.",
+    "viewRestaurants": "הצג מסעדות",
+    "guest": "אורח",
+    "guests": "אורחים",
+    "status": {
+      "pending": "ממתין",
+      "confirmed": "מאושר",
+      "cancelled": "בוטל"
+    }
+  },
+  "reserve": {
+    "capacityLabel": "קיבולת:",
+    "capacityGuests": "אורחים",
+    "date": "תאריך",
+    "time": "שעה",
+    "lunch": "צהריים",
+    "dinner": "ערב",
+    "partySize": "מספר אורחים",
+    "notes": "הערות",
+    "notesPlaceholder": "אלרגיות, בקשות מיוחדות, חגיגות…",
+    "submit": "אשר הזמנה",
+    "submitting": "שולח…",
+    "selectTimeError": "אנא בחר שעה.",
+    "notSignedInError": "יש להיכנס לחשבון כדי להזמין.",
+    "successTitle": "אושר",
+    "successDesc": "ההזמנה שלך נשלחה.",
+    "returning": "חוזר למסעדות…"
+  },
+  "facilityLogin": {
+    "portalLabel": "פורטל שותף",
+    "hero1": "נהל",
+    "hero2": "את",
+    "hero3": "המסעדה",
+    "heroDesc": "עקוב אחר הזמנות, נהל את פרופיל המסעדה וצמח בטביליסי.",
+    "portalSubLabel": "פורטל שותף",
+    "registerLink": "הרשם את המסעדה"
+  },
+  "facilityRegister": {
+    "portalLabel": "פורטל שותף",
+    "hero1": "הוסף את",
+    "hero2": "המסעדה",
+    "heroDesc": "הצטרף לרשת השותפים שלנו ומשוך תיירים המבקרים בטביליסי.",
+    "createAccountLabel": "צור חשבון",
+    "yourAccount": "החשבון שלך",
+    "yourRestaurant": "המסעדה שלך",
+    "restaurantName": "שם המסעדה",
+    "cuisine": "מטבח",
+    "description": "תיאור",
+    "capacity": "קיבולת",
+    "capacityUnit": "אורחים",
+    "contactPerson": "איש קשר",
+    "restaurantPlaceholder": "לדוג' טמדה",
+    "cuisinePlaceholder": "גאורגי, אירופאי…",
+    "descPlaceholder": "תיאור קצר של המסעדה…",
+    "registering": "מרשם…",
+    "submitLabel": "הרשם מסעדה",
+    "signInLink": "כניסה",
+    "accountError": "החשבון נוצר אך המסעדה נכשלה:"
+  },
+  "facilityDashboard": {
+    "dashLabel": "לוח שותפים",
+    "title": "הזמנות",
+    "total": "סה\"כ",
+    "pending": "ממתין",
+    "confirmed": "מאושר",
+    "cancelled": "בוטל",
+    "yourVenues": "המסעדות שלך",
+    "cap": "מקומות",
+    "noRestaurant": "אין מסעדה עדיין",
+    "noRestaurantDesc": "פנה למנהל הפלטפורמה כדי לרשום את המסעדה.",
+    "recentReservations": "הזמנות אחרונות",
+    "colRestaurant": "מסעדה",
+    "colDate": "תאריך",
+    "colTime": "שעה",
+    "colGuests": "אורחים",
+    "colStatus": "סטטוס",
+    "noReservations": "אין הזמנות עדיין"
+  },
+  "driverLogin": {
+    "portalLabel": "פורטל נהג",
+    "hero1": "הדרך",
+    "hero2": "שלך,",
+    "hero3": "מאומתת",
+    "heroDesc": "גש לקוד QR האישי שלך ובנה אמון עם כל נוסע.",
+    "portalSubLabel": "פורטל נהג",
+    "registerLink": "הירשם כאן"
+  },
+  "driverRegister": {
+    "portalLabel": "פורטל נהג",
+    "hero1": "קבל את",
+    "hero2": "קוד ה-QR",
+    "heroDesc": "הירשם כנהג מאומת וקבל קוד QR אישי.",
+    "createAccountLabel": "צור חשבון",
+    "vehicleInfo": "פרטי רכב",
+    "vehicleType": "סוג רכב",
+    "plateNumber": "לוחית רישוי",
+    "vehiclePlaceholder": "סדאן, SUV, ואן…",
+    "platePlaceholder": "ABC-1234",
+    "yourName": "שמך"
+  },
+  "driverQr": {
+    "verificationLabel": "אימות נהג",
+    "titleOwn": "קוד ה-QR",
+    "titleWith": "קוד QR של {name}",
+    "titleCode": "שלך",
+    "loading": "טוען קוד…",
+    "showToPassengers": "הצג קוד זה לנוסעים",
+    "verificationId": "מזהה אימות",
+    "notAuthenticated": "לא מחובר",
+    "driverRecordError": "לא ניתן ליצור רשומת נהג. פנה לתמיכה.",
+    "returnToLogin": "חזור לכניסה"
+  }
+}

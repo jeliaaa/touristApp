@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "Tourist App",
+    "tagline": "Тбілісі · Грузія",
+    "network": "Мережа грузинської гостинності",
+    "footer": "Сакартвело · Засн. 2024",
+    "signOut": "Вийти",
+    "back": "← Назад",
+    "signIn": "Увійти",
+    "signingIn": "Входимо…",
+    "register": "Реєстрація",
+    "createAccount": "Створити акаунт",
+    "creatingAccount": "Створюємо…",
+    "email": "Ел. пошта",
+    "password": "Пароль",
+    "fullName": "Повне ім'я",
+    "noAccount": "Немає акаунту?",
+    "alreadyRegistered": "Вже зареєстровані?",
+    "signInLink": "Увійти",
+    "registerHere": "Зареєструватися",
+    "optional": "необов'язково",
+    "loading": "Завантаження…"
+  },
+  "home": {
+    "subtitle": "Мережа грузинської гостинності",
+    "whoAre": "Хто",
+    "you": "ви?",
+    "selectPortal": "Оберіть портал для продовження",
+    "enter": "Увійти",
+    "user": {
+      "role": "Гість",
+      "tagline": "Забронюйте столик",
+      "desc": "Переглядайте ресторани-партнери по всьому Тбілісі та бронюйте столик."
+    },
+    "partner": {
+      "role": "Партнер",
+      "tagline": "Керуйте закладом",
+      "desc": "Зареєструйте ресторан, відстежуйте бронювання та розвивайте клієнтуру."
+    },
+    "driver": {
+      "role": "Водій",
+      "tagline": "Ваш QR-ідентифікатор",
+      "desc": "Отримайте особистий QR-код для пред'явлення пасажирам."
+    }
+  },
+  "userLogin": {
+    "portalLabel": "Портал клієнта",
+    "hero1": "Забронюйте",
+    "hero2": "свій",
+    "hero3": "столик",
+    "heroDesc": "Відкрийте для себе найкращі ресторани Тбілісі та забронюйте столик.",
+    "welcomeBack": "З поверненням",
+    "registerLink": "Зареєструватися"
+  },
+  "userRegister": {
+    "portalLabel": "Портал клієнта",
+    "hero1": "Приєднуйтесь",
+    "hero2": "до нас",
+    "heroDesc": "Створіть акаунт і почніть досліджувати кулінарну сцену Тбілісі.",
+    "referredBy": "Направив водій",
+    "createAccountLabel": "Створити акаунт",
+    "firstName": "Ім'я",
+    "surname": "Прізвище",
+    "signInLink": "Увійти",
+    "validating": "Перевірка реферала…",
+    "accessDenied": "Доступ заборонено",
+    "invalidTitle": "Недійсний",
+    "invalidTitleEm": "реферал",
+    "returnHome": "На головну",
+    "noReferralError": "Реєстрація потребує реферального посилання. Відскануйте QR-код водія.",
+    "invalidCodeError": "Цей реферальний код недійсний або більше не активний."
+  },
+  "nav": {
+    "restaurants": "Ресторани",
+    "myReservations": "Мої бронювання"
+  },
+  "restaurants": {
+    "available": "{count, plural, one {# заклад доступний} few {# заклади доступні} other {# закладів доступно}}",
+    "title1": "Ресторани",
+    "title2": "партнери",
+    "capacity": "Місткість:",
+    "reserve": "Забронювати",
+    "noVenues": "Закладів поки немає",
+    "noVenuesDesc": "Ресторани-партнери з'являться після реєстрації."
+  },
+  "reservations": {
+    "count": "{count, plural, one {# бронювання} few {# бронювання} other {# бронювань}}",
+    "title1": "Мої",
+    "title2": "бронювання",
+    "noReservations": "Бронювань поки немає",
+    "noReservationsDesc": "Переглядайте ресторани-партнери та бронюйте перший столик.",
+    "viewRestaurants": "Переглянути ресторани",
+    "guest": "гість",
+    "guests": "гостей",
+    "status": {
+      "pending": "Очікує",
+      "confirmed": "Підтверджено",
+      "cancelled": "Скасовано"
+    }
+  },
+  "reserve": {
+    "capacityLabel": "Місткість:",
+    "capacityGuests": "гостей",
+    "date": "Дата",
+    "time": "Час",
+    "lunch": "Обід",
+    "dinner": "Вечеря",
+    "partySize": "Кількість гостей",
+    "notes": "Нотатки",
+    "notesPlaceholder": "Алергія, особливі побажання, свята…",
+    "submit": "Підтвердити бронювання",
+    "submitting": "Надсилаємо…",
+    "selectTimeError": "Будь ласка, оберіть час.",
+    "notSignedInError": "Для бронювання необхідно увійти.",
+    "successTitle": "Підтверджено",
+    "successDesc": "Ваше бронювання надіслано.",
+    "returning": "Повертаємось до ресторанів…"
+  },
+  "facilityLogin": {
+    "portalLabel": "Портал партнера",
+    "hero1": "Керуйте",
+    "hero2": "вашим",
+    "hero3": "закладом",
+    "heroDesc": "Відстежуйте бронювання, керуйте профілем і розвивайте присутність у Тбілісі.",
+    "portalSubLabel": "Портал партнера",
+    "registerLink": "Зареєструвати заклад"
+  },
+  "facilityRegister": {
+    "portalLabel": "Портал партнера",
+    "hero1": "Додайте свій",
+    "hero2": "ресторан",
+    "heroDesc": "Приєднуйтесь до мережі партнерів і залучайте туристів у Тбілісі.",
+    "createAccountLabel": "Створити акаунт",
+    "yourAccount": "Ваш акаунт",
+    "yourRestaurant": "Ваш ресторан",
+    "restaurantName": "Назва ресторану",
+    "cuisine": "Кухня",
+    "description": "Опис",
+    "capacity": "Місткість",
+    "capacityUnit": "гостей",
+    "contactPerson": "Контактна особа",
+    "restaurantPlaceholder": "напр. Тамада",
+    "cuisinePlaceholder": "Грузинська, європейська…",
+    "descPlaceholder": "Короткий опис закладу…",
+    "registering": "Реєструємо…",
+    "submitLabel": "Зареєструвати ресторан",
+    "signInLink": "Увійти",
+    "accountError": "Акаунт створено, але ресторан не додано:"
+  },
+  "facilityDashboard": {
+    "dashLabel": "Панель партнера",
+    "title": "Бронювання",
+    "total": "Всього",
+    "pending": "Очікує",
+    "confirmed": "Підтверджено",
+    "cancelled": "Скасовано",
+    "yourVenues": "Ваші заклади",
+    "cap": "місць",
+    "noRestaurant": "Ресторану поки немає",
+    "noRestaurantDesc": "Зверніться до адміністратора для реєстрації закладу.",
+    "recentReservations": "Останні бронювання",
+    "colRestaurant": "Ресторан",
+    "colDate": "Дата",
+    "colTime": "Час",
+    "colGuests": "Гості",
+    "colStatus": "Статус",
+    "noReservations": "Бронювань поки немає"
+  },
+  "driverLogin": {
+    "portalLabel": "Портал водія",
+    "hero1": "Ваш",
+    "hero2": "шлях,",
+    "hero3": "підтверджений",
+    "heroDesc": "Отримайте особистий QR-код і завоюйте довіру пасажирів.",
+    "portalSubLabel": "Портал водія",
+    "registerLink": "Зареєструватися"
+  },
+  "driverRegister": {
+    "portalLabel": "Портал водія",
+    "hero1": "Отримайте свій",
+    "hero2": "QR-код",
+    "heroDesc": "Зареєструйтесь як водій і отримайте особистий QR-код.",
+    "createAccountLabel": "Створити акаунт",
+    "vehicleInfo": "Дані про авто",
+    "vehicleType": "Тип авто",
+    "plateNumber": "Номерний знак",
+    "vehiclePlaceholder": "Седан, позашляховик, мінівен…",
+    "platePlaceholder": "ABC-1234",
+    "yourName": "Ваше ім'я"
+  },
+  "driverQr": {
+    "verificationLabel": "Верифікація водія",
+    "titleOwn": "Ваш",
+    "titleWith": "QR-код {name}",
+    "titleCode": "QR-код",
+    "loading": "Завантажуємо код…",
+    "showToPassengers": "Покажіть цей код пасажирам",
+    "verificationId": "ID верифікації",
+    "notAuthenticated": "Не авторизовані",
+    "driverRecordError": "Не вдалося створити запис водія. Зверніться до підтримки.",
+    "returnToLogin": "Повернутись до входу"
+  }
+}

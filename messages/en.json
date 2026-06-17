@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "Tourist App",
+    "tagline": "Tbilisi · Georgia",
+    "network": "Georgian Hospitality Network",
+    "footer": "Sakartvelo · Est. 2024",
+    "signOut": "Sign out",
+    "back": "← Back",
+    "signIn": "Sign In",
+    "signingIn": "Signing in…",
+    "register": "Register",
+    "createAccount": "Create Account",
+    "creatingAccount": "Creating account…",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "noAccount": "No account?",
+    "alreadyRegistered": "Already registered?",
+    "signInLink": "Sign in",
+    "registerHere": "Register here",
+    "optional": "optional",
+    "loading": "Loading…"
+  },
+  "home": {
+    "subtitle": "Georgian Hospitality Network",
+    "whoAre": "Who are",
+    "you": "you?",
+    "selectPortal": "Select your portal to continue",
+    "enter": "Enter",
+    "user": {
+      "role": "User",
+      "tagline": "Reserve your table",
+      "desc": "Browse partner restaurants across Tbilisi and book your perfect dining experience."
+    },
+    "partner": {
+      "role": "Partner",
+      "tagline": "Manage your venue",
+      "desc": "Register your restaurant, track reservations, and grow your clientele."
+    },
+    "driver": {
+      "role": "Driver",
+      "tagline": "Your QR identity",
+      "desc": "Access your personal verification code to present to passengers."
+    }
+  },
+  "userLogin": {
+    "portalLabel": "Client Portal",
+    "hero1": "Reserve",
+    "hero2": "your",
+    "hero3": "table",
+    "heroDesc": "Discover Tbilisi's finest partner restaurants and book your perfect dining experience.",
+    "welcomeBack": "Welcome back",
+    "registerLink": "Register here"
+  },
+  "userRegister": {
+    "portalLabel": "Client Portal",
+    "hero1": "Join the",
+    "hero2": "table",
+    "heroDesc": "Create your account and start exploring Tbilisi's culinary scene.",
+    "referredBy": "Referred by driver",
+    "createAccountLabel": "Create account",
+    "firstName": "First Name",
+    "surname": "Surname",
+    "signInLink": "Sign in",
+    "validating": "Validating referral…",
+    "accessDenied": "Access Denied",
+    "invalidTitle": "Invalid",
+    "invalidTitleEm": "Referral",
+    "returnHome": "Return Home",
+    "noReferralError": "Registration requires a valid driver referral link. Please scan a driver's QR code.",
+    "invalidCodeError": "This referral code is invalid or no longer active."
+  },
+  "nav": {
+    "restaurants": "Restaurants",
+    "myReservations": "My Reservations"
+  },
+  "restaurants": {
+    "available": "{count, plural, one {# venue available} other {# venues available}}",
+    "title1": "Partner",
+    "title2": "Restaurants",
+    "capacity": "Capacity:",
+    "reserve": "Reserve",
+    "noVenues": "No venues yet",
+    "noVenuesDesc": "Partner restaurants will appear here once registered."
+  },
+  "reservations": {
+    "count": "{count, plural, one {# reservation} other {# reservations}}",
+    "title1": "My",
+    "title2": "Reservations",
+    "noReservations": "No reservations yet",
+    "noReservationsDesc": "Browse our partner restaurants and book your first table.",
+    "viewRestaurants": "View Restaurants",
+    "guest": "guest",
+    "guests": "guests",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled"
+    }
+  },
+  "reserve": {
+    "capacityLabel": "Capacity:",
+    "capacityGuests": "guests",
+    "date": "Date",
+    "time": "Time",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "partySize": "Party Size",
+    "notes": "Notes",
+    "notesPlaceholder": "Allergies, special requests, celebrations…",
+    "submit": "Confirm Reservation",
+    "submitting": "Submitting…",
+    "selectTimeError": "Please select a time slot.",
+    "notSignedInError": "You must be signed in to make a reservation.",
+    "successTitle": "Confirmed",
+    "successDesc": "Your reservation has been submitted.",
+    "returning": "Returning to restaurants…"
+  },
+  "facilityLogin": {
+    "portalLabel": "Partner Portal",
+    "hero1": "Manage",
+    "hero2": "your",
+    "hero3": "venue",
+    "heroDesc": "Track reservations, manage your restaurant profile, and grow your presence in Tbilisi.",
+    "portalSubLabel": "Partner portal",
+    "registerLink": "Register your venue"
+  },
+  "facilityRegister": {
+    "portalLabel": "Partner Portal",
+    "hero1": "List your",
+    "hero2": "restaurant",
+    "heroDesc": "Join our network of partner venues and reach tourists visiting Tbilisi.",
+    "createAccountLabel": "Create account",
+    "yourAccount": "Your Account",
+    "yourRestaurant": "Your Restaurant",
+    "restaurantName": "Restaurant Name",
+    "cuisine": "Cuisine",
+    "description": "Description",
+    "capacity": "Capacity",
+    "capacityUnit": "guests",
+    "contactPerson": "Contact person",
+    "restaurantPlaceholder": "e.g. Tamada",
+    "cuisinePlaceholder": "Georgian, European…",
+    "descPlaceholder": "A short description of your venue…",
+    "registering": "Registering…",
+    "submitLabel": "Register Restaurant",
+    "signInLink": "Sign in",
+    "accountError": "Account created but restaurant failed:"
+  },
+  "facilityDashboard": {
+    "dashLabel": "Partner Dashboard",
+    "title": "Reservations",
+    "total": "Total",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "cancelled": "Cancelled",
+    "yourVenues": "Your Venues",
+    "cap": "cap.",
+    "noRestaurant": "No restaurant yet",
+    "noRestaurantDesc": "Contact the platform admin to register your venue.",
+    "recentReservations": "Recent Reservations",
+    "colRestaurant": "Restaurant",
+    "colDate": "Date",
+    "colTime": "Time",
+    "colGuests": "Guests",
+    "colStatus": "Status",
+    "noReservations": "No reservations yet"
+  },
+  "driverLogin": {
+    "portalLabel": "Driver Portal",
+    "hero1": "Your",
+    "hero2": "journey,",
+    "hero3": "verified",
+    "heroDesc": "Access your personal QR verification code and build trust with every passenger.",
+    "portalSubLabel": "Driver portal",
+    "registerLink": "Register here"
+  },
+  "driverRegister": {
+    "portalLabel": "Driver Portal",
+    "hero1": "Get your",
+    "hero2": "QR code",
+    "heroDesc": "Register as a verified driver and receive your personal QR identity code.",
+    "createAccountLabel": "Create account",
+    "vehicleInfo": "Vehicle Info",
+    "vehicleType": "Vehicle Type",
+    "plateNumber": "Plate Number",
+    "vehiclePlaceholder": "Sedan, SUV, Van…",
+    "platePlaceholder": "ABC-1234",
+    "yourName": "Your name"
+  },
+  "driverQr": {
+    "verificationLabel": "Driver Verification",
+    "titleOwn": "Your",
+    "titleWith": "{name}'s",
+    "titleCode": "QR Code",
+    "loading": "Loading your code…",
+    "showToPassengers": "Show this code to passengers",
+    "verificationId": "Verification ID",
+    "notAuthenticated": "Not authenticated",
+    "driverRecordError": "Could not create driver record. Please contact support.",
+    "returnToLogin": "Return to login"
+  }
+}
