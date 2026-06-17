@@ -49,7 +49,13 @@ export async function middleware(request: NextRequest) {
       },
     }
   );
-  const { data: { user } } = await supabase.auth.getUser();
+  let user = null;
+  try {
+    const { data } = await supabase.auth.getUser();
+    user = data.user;
+  } catch {
+    // Edge Runtime may not support all Supabase APIs — skip auth guard safely
+  }
 
   // --- Auth guard: redirect signed-in users away from guest-only pages ---
   const normalized = pathWithoutLocale.replace(/\/$/, '') || '/';
